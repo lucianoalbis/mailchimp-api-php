@@ -1,0 +1,11 @@
+Acesso
+https://us4.admin.mailchimp.com/audience/?ref=plums_nav
+user: lucianoalbis@yahoo.com.br
+pass: Mingu@161
+
+API
+
+API_KEY = 196d17a1565ab9dff8fa600120fad17c
+
+Referencia da API
+https://github.com/drewm/mailchimp-api
